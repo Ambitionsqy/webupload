@@ -56,7 +56,7 @@ export default {
         // swf文件路径
         swf:'/src/styles/Uploader.swf',
         // 文件接收服务端。
-        server: 'http://file.zqins.com/uploadimage/fragmentUpload.html',
+        server: '',
         // 选择文件的按钮。可选。
         chunked:true,
         // 内部根据当前运行是创建，可能是input元素，也可能是flash.
